@@ -1,3 +1,13 @@
 p{
     color: red;
 }
+h2{
+    background-color: blue;
+}
+.nav{
+    background-color: coral;
+    
+}
+.nav h2{
+    background-color: currentColor;
+}
